@@ -1,4 +1,4 @@
-@BSOFH Been hacking for 40+ years. Just self-hosting these days.
+@BSOFH Been hacking for 40+ years. Jack-of-all-trades. Just self-hosting these days.
 
 
 <!---
